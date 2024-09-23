@@ -1,0 +1,13 @@
+.bd{
+    background-image: url(cc_logo2-removebg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    /* color: aquamarine; */
+}
+.img{
+    filter: brightness(1%);
+}
+
+.title{
+    text-align: center;
+}
